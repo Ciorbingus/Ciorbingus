@@ -1,6 +1,6 @@
 ## Hello there! My name is Florian.
 
-I'm a **Full-Stack Developer** and **Embedded Systems Enthusiast** with a passion for bridging the gap between high-level web applications and low-level hardware. Whether it's architecting cloud solutions or writing VHDL for FPGAs, I love building systems that are efficient and impactful.
+I'm a Computer and Information Science Student at Tehnical Univeristy of Cluj-Napoca. 
 
 ---
 
