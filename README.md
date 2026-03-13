@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** and **Embedded Systems Enthusiast** with a passio
 
 ##  What I'm working on
 
-- **[SMTBattle]([https://github.com/Ciorbingus/StanaGO](https://github.com/Ciorbingus/SMTBattle.Web))**: Online PVP RPG game based on Shin Megami Tensei franchise made with ASP.NET Core.
+- **[SMTBattle.Web](https://github.com/Ciorbingus/StanaGO](https://github.com/Ciorbingus/SMTBattle.Web)**: Online PVP RPG game based on Shin Megami Tensei franchise made with ASP.NET Core.
 
 ## My projects
 
