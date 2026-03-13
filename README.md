@@ -1,6 +1,6 @@
 ## Hello there! My name is Florian.
 
-I'm a Computer and Information Science Student at Tehnical Univeristy of Cluj-Napoca. 
+I'm a Computer and Information Science Student at Tehnical Univeristy of Cluj-Napoca. Former Gamer.
 
 ---
 
