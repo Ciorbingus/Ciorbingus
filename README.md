@@ -29,12 +29,3 @@ I'm a **Full-Stack Developer** and **Embedded Systems Enthusiast** with a passio
 ![FPGA](https://img.shields.io/badge/FPGA-Xilinx-orange?style=for-the-badge)
 
 ---
-
-## GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ciorbingus&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciorbingus&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
